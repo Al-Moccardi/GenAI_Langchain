@@ -8,8 +8,9 @@
 
 
 This repository explores the integration of Generative Pre-trained Transformers (GPT) with Langchain to enhance natural language processing applications. It demonstrates how to leverage the power of GPT models in combination with the Langchain framework to create sophisticated language understanding and generation tools.
-
+<\div>
 ![image](https://github.com/Al-Moccardi/GenAI_Langchain/assets/150179413/1152744e-47c6-491d-ad01-b96f0d01db66)
+<\div>
 
 
 ## Technologies Used:
@@ -29,4 +30,22 @@ This repository explores the integration of Generative Pre-trained Transformers 
   
 ![Untitled design](https://github.com/Al-Moccardi/GenAI_Langchain/assets/150179413/ff36c7bf-535a-4f32-a66f-fe0013e6c766)
 
+
+## Getting Started with the Repository
+
+### Clone the Repository
+
+To get started with the project, first clone the repository to your local machine:
+
+```bash
+git clone https://github.com/Al-Moccardi/GenAI_Langchain.git
+cd GenAI_Langchain/Text_Mining
+```
+
+### Update Your Local Repository
+Keep your local repository updated with the latest changes from the main branch:
+
+```bash
+git pull origin main
+```
 
