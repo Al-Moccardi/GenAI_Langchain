@@ -9,11 +9,11 @@
 
 This repository explores the integration of Generative Pre-trained Transformers (GPT) with Langchain to enhance natural language processing applications. It demonstrates how to leverage the power of GPT models in combination with the Langchain framework to create sophisticated language understanding and generation tools.
 
-<\div>
+</div>
 
 ![image](https://github.com/Al-Moccardi/GenAI_Langchain/assets/150179413/1152744e-47c6-491d-ad01-b96f0d01db66)
 
-<\div>
+</div>
 
 
 ## Technologies Used:
