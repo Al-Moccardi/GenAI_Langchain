@@ -19,5 +19,7 @@ This repository explores the integration of Generative Pre-trained Transformers 
 - Text Generation: Utilize GPT models for high-quality text generation.
 - Langchain Integration: Enhances the functionality of GPT models with additional tools and frameworks.
 - Scalable Architecture: Designed to be scalable to accommodate various use cases from small projects to large enterprises.
+  
+![Untitled design](https://github.com/Al-Moccardi/GenAI_Langchain/assets/150179413/ff36c7bf-535a-4f32-a66f-fe0013e6c766)
 
-![Untitled design](https://github.com/Al-Moccardi/GenAI_Langchain/assets/150179413/281f20fd-ceb9-4054-bfde-312c424ccdfd)
+
